@@ -1,0 +1,38 @@
+1.	A little about me
+2.	What I do
+a.	Development
+b.	Open Source
+c.	Music
+3.	What I’ve worked on
+a.	PongInfinity
+i.	Description:
+1.	Pong with a twist. Realtime pong multiplayer for up to 8 people at once, taking place on a circular court rather than a rectangular one. Submitted to VTHacks
+ii.	Built with:
+1.	Create.js
+2.	Html5
+3.	Angular.js
+4.	Node.js
+5.	Web-sockets
+b.	PPDPAPP
+i.	Description:
+1.	Front end application designed to provide the Temple University PA Policy Project with a content management system with a user a Gmail style driven user experience. 
+ii.	Built with:
+1.	Angular.js
+2.	JQuery
+3.	Twitter Bootstrap
+4.	MVC4 Rest Server
+c.	PostingNation
+i.	Description:
+1.	Postingnation is an online marketplace based on communities. Create a classified site specific to your community with custom privacy controls that let you decide who can buy, sell, and trade. Or, join an existing community and start trading with your friends or members verified by comments and reviews. The Internet can be a shady place – let Posting Nation add some certainty
+ii.	Built with:
+1.	Angular.js
+2.	Twitter Bootstrap
+3.	PHP CodeIgniter Rest Server
+iii.	
+d.	RentTempleU
+4.	Want to reach me?
+5.		Me@yawasabere.com
+a.	Github
+b.	Twitter
+c.	Linkedin
+6.	2016 @ Yaw Asabere
