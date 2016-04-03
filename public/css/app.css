@@ -9,12 +9,14 @@ html, body {
 
 .cover{
     color: rgb(255, 255, 255);
-    height: 100%;
-    background: url("../images/backgroundImage1.jpg") no-repeat  0px -200px;
+    background-color: black;
+    background: url("../images/backgroundImage1-thin.png") no-repeat  0px -200px;
+    /*background-position: center center;*/
+    background-size: 100%;
     -webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
 }
  
 nav ul li {
